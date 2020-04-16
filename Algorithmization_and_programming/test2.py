@@ -13,4 +13,6 @@
 #
 # y[:] = x[:]
 # print(y)
-z = [1, 2, 3, 4]; z.remove(2); print(z)
+z = [1, 2, 3, 4]
+z.remove(2)
+print(z)
